@@ -6,7 +6,9 @@ To write C# program to find the eligibility for admission to an engineering cour
 ## Algorithnm:
 
 ## Program:
+```Console.WriteLine("Hello");
 
+```
 
 
 
