@@ -1,9 +1,12 @@
-# Eligibility-for-Admission
+# Eligibility-
+name:naveen kumar.R                 
+id:2301356
 
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course
 
 ## Algorithnm:
+
 
 ## Program:
 ```Console.WriteLine("Hello");
